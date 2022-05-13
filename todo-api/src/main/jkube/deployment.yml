@@ -4,4 +4,4 @@ spec:
       containers:
       - envFrom:
         - configMapRef:
-          name: db-config
+            name: db-config
